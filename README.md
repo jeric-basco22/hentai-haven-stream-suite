@@ -2,6 +2,10 @@
 
 # Haniverse
 
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 *A curated ecosystem for exploring, organizing, and sharing hand-drawn visual narratives with depth and soul.*
 
 ---
